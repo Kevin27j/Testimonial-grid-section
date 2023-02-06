@@ -9,8 +9,8 @@ This is a project for a simple grid section web page, here I have used CSS Grid 
 
 ## Screnshots
 
-[Desktop Design](/design/desktop-design.jpg)
-[Mobile Design](/design/mobile-design.jpg)
+![Desktop Design](/design/desktop-design.jpg)
+![Mobile Design](/design/mobile-design.jpg)
 
 ## Links
 
